@@ -259,11 +259,9 @@ MonoBehaviour:
   PrefabKeys:
   - Cube
   - Sphere
-  - Cylinder
   GameObjects:
   - {fileID: 1568282447724663618, guid: 15640718f0fcc9548bc6a1a60d3f0dea, type: 3}
   - {fileID: 2304997423241960749, guid: 1045ad24d3b38d347b022c2eec98fbe2, type: 3}
-  - {fileID: 5613665238757095605, guid: 8749d137b14b43145ad356e142f38313, type: 3}
 --- !u!1 &534669902
 GameObject:
   m_ObjectHideFlags: 0
